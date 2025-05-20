@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Lukas Silvestre</h1>
 
 <p align="center">
-  🎓 Estudante de Engenharia de Automação • 👨‍💻 Programador back_end 
+  🎓 Estudante de Engenharia de Automação • 👨‍💻 Programador
 </p>
 
 ---
